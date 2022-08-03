@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/inin/Ahmed_Sheref_Android_Task/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/inin/Ahmed_Sheref_Android_Task/app/src/main/res/drawable/ic_logout.xml" value="0.1" />
+        <entry key="..\:/inin/Ahmed_Sheref_Android_Task/app/src/main/res/drawable/login_card_bg.xml" value="0.1" />
+        <entry key="..\:/inin/Ahmed_Sheref_Android_Task/app/src/main/res/layout/dialog_welcome.xml" value="0.11388888888888889" />
+        <entry key="..\:/inin/Ahmed_Sheref_Android_Task/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/inin/Ahmed_Sheref_Android_Task/app/src/main/res/layout/fragment_login.xml" value="0.1388888888888889" />
+        <entry key="..\:/inin/Ahmed_Sheref_Android_Task/app/src/main/res/layout/fragment_saved.xml" value="0.1" />
+        <entry key="..\:/inin/Ahmed_Sheref_Android_Task/app/src/main/res/layout/fragment_splash.xml" value="0.1" />
+        <entry key="..\:/inin/Ahmed_Sheref_Android_Task/app/src/main/res/layout/item_problem_home.xml" value="0.2" />
+        <entry key="..\:/inin/Ahmed_Sheref_Android_Task/app/src/main/res/layout/item_product_home.xml" value="0.1388888888888889" />
+        <entry key="..\:/inin/Ahmed_Sheref_Android_Task/app/src/main/res/layout/item_product_stoch_more_50.xml" value="0.1388888888888889" />
+        <entry key="..\:/inin/Ahmed_Sheref_Android_Task/app/src/main/res/layout/sheet_details.xml" value="0.1" />
+        <entry key="..\:/inin/Ahmed_Sheref_Android_Task/app/src/main/res/menu/too_bar_menu.xml" value="0.1388888888888889" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
