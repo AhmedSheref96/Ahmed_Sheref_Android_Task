@@ -30,7 +30,7 @@
                 app:contentScrim="@color/primaryColor"
                 app:expandedTitleTextAppearance="@style/expandedText"
                 app:layout_scrollFlags="scroll|snap|exitUntilCollapsed"
-                app:title='@{viewModel.getWelcomeText+viewModel.userName.split(" ")[0]}'>
+                app:title='@{viewModel.getWelcomeText}'>
 
                 <RelativeLayout
                     android:layout_width="match_parent"
